@@ -4,6 +4,8 @@
 - [Kaggle](https://www.kaggle.com/competitions/likelioneda5thfinalproject) 제출 마감일: 7/17일
 - 참고자료: https://www.aihub.or.kr/leaderboard/viewAiCpthbByCreditCard.do?currMenu=500&topMenu=102
 
+  
+
 ### 신용카드 고객 세그먼트 분류 AI 경진대회
 "일정기간 동안의 고객 신용정보, 승인매출, 청구, 잔액, 채널, 마케팅, 성과 등 다양한 금융 데이터를 활용하여 신용카드 고객 세그먼트를 분류하는 AI 알고리즘을 개발한다."
 
